@@ -1,3 +1,8 @@
+3D-Multiuser-Environment-Server
+===============================
+
+The objective of this project is to develop a 3D environment with network communication technology based on Java3D. A virtual space in which users can interact with each other and change their environment. For this purpose we have developed a server application in order to maintain the virtual environment, and a client application that each user can view and interact with the environment in real time.
+
 PROYECTO FIN DE CARRERA - UNIVERSIDAD DE JAÉN
 
 Desarrollo de un entorno 3D multiusuario.
@@ -13,11 +18,6 @@ TUTOR: Raquel Viciana Abad, José Enrique Muñoz Expósito
 
 Linares, Septiembre, 2010
 
-
-3D-Multiuser-Environment-Server
-===============================
-
-The objective of this project is to develop a 3D environment with network communication technology based on Java3D. A virtual space in which users can interact with each other and change their environment. For this purpose we have developed a server application in order to maintain the virtual environment, and a client application that each user can view and interact with the environment in real time.
 
 MANUAL DE INSTALACIÓN
 Para la ejecución de la aplicación es necesario tener instalado el siguiente software:

@@ -1,10 +1,18 @@
 PROYECTO FIN DE CARRERA - UNIVERSIDAD DE JAÉN
+
 Desarrollo de un entorno 3D multiusuario.
+
+
 TITULACION: Ingeniería Técnica de Telecomunicación 
+
 ESPECIALIDAD: Telemática 
+
 AUTOR: Israel Choque Gutiérrez 
+
 TUTOR: Raquel Viciana Abad, José Enrique Muñoz Expósito
+
 Linares, Septiembre, 2010
+
 
 3D-Multiuser-Environment-Server
 ===============================
